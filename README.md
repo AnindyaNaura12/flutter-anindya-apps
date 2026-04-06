@@ -16,4 +16,5 @@ A new Flutter project.
 ![Screenshot center the ui](images/10.png)
 ![Screenshot add the business logic](images/11.png)
 ![Screenshot add the button](images/12.png)
+![Screenshot add navigation rule](images/13.png)
 
