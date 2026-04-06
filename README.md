@@ -21,6 +21,7 @@ A new Flutter project.
 ![Screenshot setState](images/15.png)
 ![Screenshot Use selectedIndex](images/16.png)
 ![Screenshot responsiveness](images/17.png)
+![Screenshot add a new page](images/18.png)
 
 
 
