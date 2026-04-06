@@ -34,9 +34,14 @@ class MyHomePage extends StatelessWidget {
     var appState = context.watch<MyAppState>();
 
     return Scaffold(
-      body: Column(
-        children: [Text('A random idea:'), Text(appState.current.asLowerCase)],
+    body: SafeArea(
+      child: Column(
+        children: [
+          Text("A random AWESOME idea:"),
+          Text(appState.current.asLowerCase),
+        ],
       ),
-    );
+    ),
+  );
   }
 }
