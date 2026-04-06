@@ -9,5 +9,6 @@ A new Flutter project.
 ![Screenshot adding button](images/03.png)
 ![Screenshot first behavior](images/04.png)
 ![Screenshot extract a widget](images/05.png)
-![Screenshot add a card](images/05.png)
+![Screenshot add a card](images/06.png)
+![Screenshot theme and style](images/07.png)
 
